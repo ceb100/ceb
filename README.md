@@ -1,3 +1,15 @@
-# ceb100.github.io
+# Controlling an EL640.200-SK with an RP2040
 
-### TESTING SITE
+## Introduction
+
+## Project Scope & Structure
+
+## Hardware Setup
+
+## Software Implementation
+
+## Testing
+
+## Results
+
+## Conclusion
